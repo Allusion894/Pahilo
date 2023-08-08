@@ -1,2 +1,2 @@
 # Pahilo
-My forst repository
+My first repository
